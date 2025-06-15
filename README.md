@@ -156,3 +156,14 @@ QUANTAXIS 内测版论坛 [QUANTAXISCLUB上线](http://www.yutiansut.com:3000)
 http://www.yutiansut.com:3000
 
 凡通过论坛进行提问的 均有最高的回复优先级
+
+
+
+# 2025/6/14
+
+完成QUANTAXIS 的github下载
+
+# 2025/6/15
+
+项目结构
+
